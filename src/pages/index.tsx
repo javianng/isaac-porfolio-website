@@ -64,129 +64,190 @@ export default function Home() {
         Projects
       </h1>
 
-      <div className="grid grid-cols-1 gap-4 px-14  pb-8 sm:grid-cols-3">
-        {/* project card */}
-        <div className="card card-compact bg-base-100 shadow-xl">
-          <figure>
-            <img
-              src="https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
-              alt="Shoes"
-            />
-          </figure>
-          <div className="card-body">
-            <h2 className="card-title">Project</h2>
-            <p>
-              Exercitation lorem nostrud, commodo dolor proident
-              laborum.Exercitation lorem nostrud.
-            </p>
-            <div className="card-actions justify-end">
-              <a href="/projects/project1">
-                <button className="btn btn-ghost bg-brand-200 border-brand-100 text-white">
-                  Buy Now
-                </button>
-              </a>
+      <div className="flex items-center">
+        <div className="grid grid-cols-1 gap-4 px-14  pb-8 sm:grid-cols-3">
+          {/* project card */}
+          <div className="card card-compact bg-base-100 max-w-md shadow-xl">
+            <figure>
+              <img
+                src="https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+                alt="Shoes"
+              />
+            </figure>
+            <div className="card-body">
+              <h2 className="card-title">Project</h2>
+              <p>
+                Exercitation lorem nostrud, commodo dolor proident
+                laborum.Exercitation lorem nostrud.
+              </p>
+              <div className="card-actions justify-end">
+                <a href="/projects/project1">
+                  <button className="btn btn-ghost bg-brand-200 border-brand-100 text-white">
+                    Buy Now
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          {/* project card */}
+          <div className="card card-compact bg-base-100 max-w-md shadow-xl">
+            <figure>
+              <img
+                src="https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+                alt="Shoes"
+              />
+            </figure>
+            <div className="card-body">
+              <h2 className="card-title">Project</h2>
+              <p>
+                Exercitation lorem nostrud, commodo dolor proident
+                laborum.Exercitation lorem nostrud.
+              </p>
+              <div className="card-actions justify-end">
+                <a href="/projects/project1">
+                  <button className="btn btn-ghost bg-brand-200 border-brand-100 text-white">
+                    Buy Now
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          {/* project card */}
+          <div className="card card-compact bg-base-100 max-w-md shadow-xl">
+            <figure>
+              <img
+                src="https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+                alt="Shoes"
+              />
+            </figure>
+            <div className="card-body">
+              <h2 className="card-title">Project</h2>
+              <p>
+                Exercitation lorem nostrud, commodo dolor proident
+                laborum.Exercitation lorem nostrud.
+              </p>
+              <div className="card-actions justify-end">
+                <a href="/projects/project1">
+                  <button className="btn btn-ghost bg-brand-200 border-brand-100 text-white">
+                    Buy Now
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          {/* project card */}
+          <div className="card card-compact bg-base-100 max-w-md shadow-xl">
+            <figure>
+              <img
+                src="https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+                alt="Shoes"
+              />
+            </figure>
+            <div className="card-body">
+              <h2 className="card-title">Project</h2>
+              <p>
+                Exercitation lorem nostrud, commodo dolor proident
+                laborum.Exercitation lorem nostrud.
+              </p>
+              <div className="card-actions justify-end">
+                <a href="/projects/project1">
+                  <button className="btn btn-ghost bg-brand-200 border-brand-100 text-white">
+                    Buy Now
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          {/* project card */}
+          <div className="card card-compact bg-base-100 max-w-md shadow-xl">
+            <figure>
+              <img
+                src="https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+                alt="Shoes"
+              />
+            </figure>
+            <div className="card-body">
+              <h2 className="card-title">Project</h2>
+              <p>
+                Exercitation lorem nostrud, commodo dolor proident
+                laborum.Exercitation lorem nostrud.
+              </p>
+              <div className="card-actions justify-end">
+                <a href="/projects/project1">
+                  <button className="btn btn-ghost bg-brand-200 border-brand-100 text-white">
+                    Buy Now
+                  </button>
+                </a>
+              </div>
+            </div>
+          </div>
+          {/* project card */}
+          <div className="card card-compact bg-base-100 max-w-md shadow-xl">
+            <figure>
+              <img
+                src="https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+                alt="Shoes"
+              />
+            </figure>
+            <div className="card-body">
+              <h2 className="card-title">Project</h2>
+              <p>
+                Exercitation lorem nostrud, commodo dolor proident
+                laborum.Exercitation lorem nostrud.
+              </p>
+              <div className="card-actions justify-end">
+                <a href="/projects/project1">
+                  <button className="btn btn-ghost bg-brand-200 border-brand-100 text-white">
+                    Buy Now
+                  </button>
+                </a>
+              </div>
             </div>
           </div>
         </div>
-        <div className="card card-compact bg-base-100 shadow-xl">
-          <figure>
-            <img
-              src="https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
-              alt="Shoes"
-            />
-          </figure>
-          <div className="card-body">
-            <h2 className="card-title">Project</h2>
+      </div>
+
+      {/* skill section */}
+      <h1 className="px-14 pb-8 text-7xl font-bold" id="workexperience">
+        Work Experience
+      </h1>
+
+      <div className="flex flex-col gap-4 px-14 pb-8">
+        <div className="border-brand-300 hover:bg-brand-100 flex w-full flex-row items-center justify-between rounded-lg border-2 p-9 duration-200">
+          <div>
+            <p className="text-xl font-bold">Work @ NUS</p>
+            <p className="py-2 underline">Jan 2023 - Feb 2023</p>
             <p>
-              Exercitation lorem nostrud, commodo dolor proident
-              laborum.Exercitation lorem nostrud.
+              Ex est id ullamco est ea. Id ullamco est ea do anim tempor. Est ea
+              do, anim tempor nostrud. Anim tempor nostrud ad, aute proident. Ad
+              aute proident laborum.
             </p>
-            <div className="card-actions justify-end">
-              <button className="btn btn-ghost bg-brand-200 border-brand-100 text-white">
-                Buy Now
-              </button>
-            </div>
           </div>
+          <img src="/python.svg" alt="" className="h-full w-1/3" />
         </div>
-        <div className="card card-compact bg-base-100 shadow-xl">
-          <figure>
-            <img
-              src="https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
-              alt="Shoes"
-            />
-          </figure>
-          <div className="card-body">
-            <h2 className="card-title">Project</h2>
+        <div className="border-brand-300 hover:bg-brand-100 flex w-full flex-row items-center justify-between rounded-lg border-2 p-9 duration-200">
+          <div>
+            <p className="text-xl font-bold">Work @ NUS</p>
+            <p className="py-2 underline">Jan 2023 - Feb 2023</p>
             <p>
-              Exercitation lorem nostrud, commodo dolor proident
-              laborum.Exercitation lorem nostrud.
+              Ex est id ullamco est ea. Id ullamco est ea do anim tempor. Est ea
+              do, anim tempor nostrud. Anim tempor nostrud ad, aute proident. Ad
+              aute proident laborum.
             </p>
-            <div className="card-actions justify-end">
-              <button className="btn btn-ghost bg-brand-200 border-brand-100 text-white">
-                Buy Now
-              </button>
-            </div>
           </div>
+          <img src="/python.svg" alt="" className="h-full w-1/3" />
         </div>
-        <div className="card card-compact bg-base-100 shadow-xl">
-          <figure>
-            <img
-              src="https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
-              alt="Shoes"
-            />
-          </figure>
-          <div className="card-body">
-            <h2 className="card-title">Project</h2>
+        <div className="border-brand-300 hover:bg-brand-100 flex w-full flex-row items-center justify-between rounded-lg border-2 p-9 duration-200">
+          <div>
+            <p className="text-xl font-bold">Work @ NUS</p>
+            <p className="py-2 underline">Jan 2023 - Feb 2023</p>
             <p>
-              Exercitation lorem nostrud, commodo dolor proident
-              laborum.Exercitation lorem nostrud.
+              Ex est id ullamco est ea. Id ullamco est ea do anim tempor. Est ea
+              do, anim tempor nostrud. Anim tempor nostrud ad, aute proident. Ad
+              aute proident laborum.
             </p>
-            <div className="card-actions justify-end">
-              <button className="btn btn-ghost bg-brand-200 border-brand-100 text-white">
-                Buy Now
-              </button>
-            </div>
           </div>
-        </div>
-        <div className="card card-compact bg-base-100 shadow-xl">
-          <figure>
-            <img
-              src="https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
-              alt="Shoes"
-            />
-          </figure>
-          <div className="card-body">
-            <h2 className="card-title">Project</h2>
-            <p>
-              Exercitation lorem nostrud, commodo dolor proident
-              laborum.Exercitation lorem nostrud.
-            </p>
-            <div className="card-actions justify-end">
-              <button className="btn btn-ghost bg-brand-200 border-brand-100 text-white">
-                Buy Now
-              </button>
-            </div>
-          </div>
-        </div>
-        <div className="card card-compact bg-base-100 shadow-xl">
-          <figure>
-            <img
-              src="https://daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
-              alt="Shoes"
-            />
-          </figure>
-          <div className="card-body">
-            <h2 className="card-title">Project</h2>
-            <p>
-              Exercitation lorem nostrud, commodo dolor proident
-              laborum.Exercitation lorem nostrud.
-            </p>
-            <div className="card-actions justify-end">
-              <button className="btn btn-ghost bg-brand-200 border-brand-100 text-white">
-                Buy Now
-              </button>
-            </div>
-          </div>
+          <img src="/python.svg" alt="" className="h-full w-1/3" />
         </div>
       </div>
 
