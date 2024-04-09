@@ -30,17 +30,17 @@ export default function Home() {
       <h1 className="px-14 pb-8 text-7xl font-bold">Skills</h1>
 
       <div className="flex flex-col gap-4 px-14 pb-8">
-        <div className="border-brand-300 flex w-full flex-row items-center justify-between rounded-lg border-2 p-9">
-          <p>Voluptate Voluptate</p>
-          <img src="/" alt="" className="h-5 w-5" />
+        <div className="border-brand-300 hover:bg-brand-100 flex w-full flex-row items-center justify-between rounded-lg border-2 p-9 duration-200">
+          <p>Python</p>
+          <img src="/python.svg" alt="" className="h-5 w-5" />
         </div>
-        <div className="border-brand-300 flex w-full flex-row items-center justify-between rounded-lg border-2 p-9">
-          <p>Voluptate Voluptate</p>
-          <img src="/" alt="" className="h-5 w-5" />
+        <div className="border-brand-300 hover:bg-brand-100 flex w-full flex-row items-center justify-between rounded-lg border-2 p-9 duration-200">
+          <p>Python</p>
+          <img src="/python.svg" alt="" className="h-5 w-5" />
         </div>
-        <div className="border-brand-300 flex w-full flex-row items-center justify-between rounded-lg border-2 p-9">
-          <p>Voluptate Voluptate</p>
-          <img src="/" alt="" className="h-5 w-5" />
+        <div className="border-brand-300 hover:bg-brand-100 flex w-full flex-row items-center justify-between rounded-lg border-2 p-9 duration-200">
+          <p>Python</p>
+          <img src="/python.svg" alt="" className="h-5 w-5" />
         </div>
       </div>
 
@@ -176,6 +176,13 @@ export default function Home() {
 
       {/* testimonials section */}
       <h1 className="px-14 pb-8 text-7xl font-bold">Testimonials</h1>
+
+      <h1 className="px-14 pb-8 text-7xl font-bold">Links</h1>
+      <h1 className="px-14 pb-8 text-7xl font-bold">Contact Me</h1>
+
+      <div>
+        <img src="" alt="" />
+      </div>
     </PageLayout>
   );
 }
