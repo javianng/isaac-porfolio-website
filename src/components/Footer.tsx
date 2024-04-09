@@ -3,9 +3,9 @@ export default function footer() {
     <footer className="footer bg-brand-200 p-10 text-white">
       <aside>
         <p>
-          ACME Industries Ltd.
+          Isaac Chin
           <br />
-          Providing reliable tech since 1992
+          Data Scientist, Software Engineer
         </p>
       </aside>
       <nav>
